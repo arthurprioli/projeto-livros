@@ -2,6 +2,7 @@
  Projeto pra colocar os livros que eu li e pretendo ler
 
 ## Criar página principal
+
    [ ] Criar o HTML
    [ ] Adicionar estilo
    -Parte do Javascript
